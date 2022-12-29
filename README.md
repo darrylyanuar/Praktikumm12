@@ -30,7 +30,7 @@ print(f"Teks menjadi huruf kecil = {e}")
 ### Ganti karakter H dengan karakter J
 f = txt.replace("H","J")
 print(f"Menganti karakter H dengan J = {f}")
-![gambar1](ssan/string.png)
+![gambar1](ssan/carbon_string.png)
 
 ## Latihan 2
 umur = 24
